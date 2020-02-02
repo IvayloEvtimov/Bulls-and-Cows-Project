@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Player>
+    <Name>Player1</Name>
+    <Steps>1</Steps>
+  </Player>
+  <Player>
+    <Name>Player2</Name>
+    <Steps>2</Steps>
+  </Player>
+  <Player>
+    <Name>Player3</Name>
+    <Steps>5</Steps>
+  </Player>
+  <Player>
+    <Name>Player4</Name>
+    <Steps>7</Steps>
+  </Player>
+  <Player>
+    <Name>Player8</Name>
+    <Steps>189</Steps>
+  </Player>
+  <Player>
+    <Name>Player9</Name>
+    <Steps>29</Steps>
+  </Player>
+</ArrayOfPlayer>

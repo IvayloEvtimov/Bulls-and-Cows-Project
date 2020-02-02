@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameRules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <description>In this game the computer randomly chooses a 4-digit number and the player has to guess what those 4 digits are.
+During the course of the game the player will be notified if the guess was correct or how close he is to guessing the number.</description>
+  <rules>The two ways of knowing how close the player is to guessing the number are:
+Bull - the digit and the position are correct
+Cow - the digit is correct but the position is not
+If there are no Bulls and Cows then everything is wrong</rules>
+</GameRules>
